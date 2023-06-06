@@ -26,7 +26,8 @@ Deploy the smart contract: Deploy the MyContract.sol smart contract on the desir
 Launch the application: Open the index.html file in a web browser.
 For Generating Eth SEPOLIA FAUCET Was Used..to get testnet Ether (ETH) in order to test and troubleshoot your decentralized application
 or protocol before going live on Ethereum mainnet
-
+ For DEMO Install Meta Mask Extension And Enable Test Network Sepolia Test Net 
+ fake-product-detectioneth.netlify.app
 
 
 ![image](https://github.com/MDaniel07/FakeProductDetectionBlockchain/assets/127615063/611212dc-866c-4269-b176-5c36ad63ce57)
