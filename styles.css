@@ -1,0 +1,95 @@
+/* Styles for the form */
+
+body {
+  background-image: url('bgimg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-weight: 50;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section {
+  .section {
+    width: 400px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgba(242, 242, 242, 0.492); 
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+ 
+
+}
+
+.section h2 {
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.form-sections {
+  display: flex; 
+  justify-content: center; 
+}
+
+form {
+  margin: 0 auto;
+  max-width: 300px;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="number"],
+input[type="text"],
+input[type="date"] {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button[type="submit"] {
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+
+.result {
+  margin-top: 20px;
+  font-weight: bold;
+  text-align: center;
+  
+  
+  
+  font-size: 24px; 
+  
+  
+}
+
+
+.notification {
+  background-color: #eaeaea;
+  padding: 10px;
+  margin-bottom: 10px;
+}
